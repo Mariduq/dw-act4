@@ -1,0 +1,52 @@
+html{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+#info p {
+  text-align: justify;
+}
+
+img {
+  max-width: 100%;
+}
+
+.c-item {
+  height: 480px;
+}
+  
+.c-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+
+.accordion {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#contact {
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: rgb(211, 191, 206);
+}
+
+#faq{
+  background-color: rgb(211, 191, 206);
+  padding-bottom: 2%;
+}
+
+#contact p{
+ text-align: center;
+}
+
+footer{
+  background-color: rgb(211, 191, 206);
+}
